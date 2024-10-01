@@ -18,3 +18,6 @@ tool. This file is also available in the Registration/CodeFiles folder.
 
 The license file which is provided "mosek.lic" is a trial license file and will expire by 29th October 2024. So tool will not work after that 
 date.
+
+Pymol should also be installed in the system to visualize the results. There are a lot of python scripts in the tool which imports cmd module
+from pymol.
