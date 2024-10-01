@@ -1,6 +1,6 @@
-# Project Name
+# Integrated Modelling of Protein Complexes Via Single Shot Registration Using Dream (IMPROVISeD)
 
-This repository contains a tool that uses Python and C++ libraries to solve various problems involving Semidefinite Programming (SDP). It integrates MOSEK, a powerful C++ library for SDP, along with other Python tools like PyMOL for visualization.
+This repository contains a tool that uses Python and C++ libraries to model the structure of Protein Complexes using a class of optimization technique known as semidefinite programming (SDP). It integrates MOSEK, a powerful C++ library for SDP, along with other Python tools like PyMOL for visualization.
 
 ## Table of Contents
 
@@ -21,6 +21,7 @@ This repository contains a tool that uses Python and C++ libraries to solve vari
 ## Installation
 
 To install the necessary dependencies for running this tool, please follow the instructions below:
+
 
 ### Requirements
 
