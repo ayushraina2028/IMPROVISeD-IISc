@@ -1,0 +1,5 @@
+pyrama
+numpy
+biopython
+pandas
+scipy

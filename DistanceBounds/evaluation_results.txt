@@ -1,0 +1,6 @@
+Mean Absolute Error for Crosslink Distances: 9.686586538950602
+RMSD for Crosslink Distances: 10.672031361269699
+Mean Absolute Error for Equality 1 Distances: 0.00035524368286162417
+RMSD for Equality 1 Distances: 0.00039171468748181224
+Mean Absolute Error for Equality 2 Distances: 0.00037937164306640626
+RMSD for Equality 2 Distances: 0.0004399143636310977

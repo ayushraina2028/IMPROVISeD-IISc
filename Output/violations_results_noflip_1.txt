@@ -1,0 +1,14 @@
+Iteration 1:
+Satisfied Crosslinks:
+Crosslink satisfied between residue 764 (protein chain_A) and residue 60 (protein chain_B): Modelled distance = 32.32411575317383, Off from true value = 3.5436153411865234
+Crosslink satisfied between residue 764 (protein chain_A) and residue 63 (protein chain_B): Modelled distance = 34.41704177856445, Off from true value = 10.038949966430664
+Crosslink satisfied between residue 764 (protein chain_A) and residue 99 (protein chain_B): Modelled distance = 31.808916091918945, Off from true value = 22.58283805847168
+Crosslink satisfied between residue 764 (protein chain_A) and residue 125 (protein chain_B): Modelled distance = 34.161563873291016, Off from true value = 14.456653594970703
+
+Violated Crosslinks:
+Crosslink violated between residue 115 (protein chain_A) and residue 47 (protein chain_B): Modelled distance = 71.02985382080078, Amount off from 35 = 36.02985382080078
+Crosslink violated between residue 184 (protein chain_A) and residue 47 (protein chain_B): Modelled distance = 61.54924392700195, Amount off from 35 = 26.549243927001953
+Crosslink violated between residue 184 (protein chain_A) and residue 51 (protein chain_B): Modelled distance = 51.46609115600586, Amount off from 35 = 16.46609115600586
+Crosslink violated between residue 184 (protein chain_A) and residue 125 (protein chain_B): Modelled distance = 38.812618255615234, Amount off from 35 = 3.8126182556152344
+Crosslink violated between residue 184 (protein chain_A) and residue 158 (protein chain_B): Modelled distance = 58.9234733581543, Amount off from 35 = 23.923473358154297
+
