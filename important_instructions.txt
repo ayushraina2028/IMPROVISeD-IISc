@@ -15,3 +15,6 @@ I have compiled the register.cpp using version 10.2
 I am also adding mosek 10.2 folder in the Packages folder. You only need to do above steps if mosek version has been changed at the time of 
 running the tool. I am also attaching a mosek.lic file which has to be put ~/home/username/mosek/mosek.lic. This file is necessary to run the 
 tool. This file is also available in the Registration/CodeFiles folder.
+
+The license file which is provided "mosek.lic" is a trial license file and will expire by 29th October 2024. So tool will not work after that 
+date.
