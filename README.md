@@ -39,3 +39,6 @@ To install the Python dependencies (excluding PyMOL), run:
 
 ```sh
 pip install -r requirements.txt
+```
+
+#### MOSEK Installation
