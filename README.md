@@ -47,7 +47,7 @@ You also need to obtain a license for mosek, checkout section 4.3 from https://d
 You will find a folder named "mosek" when you do the above 2 steps properly, place this folder in the Packages directory of the project.
 
 #### Mosek License File
-Trial License is the easiest to obtain, whose validity is 30 days. I have attached a trial license with this tool named mosek.lic, this needs to be places in ~/username/mosek/mosek.lic 
+Trial License is the easiest to obtain, whose validity is 30 days. 
 
 #### Compiling using Mosek
 You can find the compilation command using mosek in this link https://docs.mosek.com/latest/cxxfusion/install-interface.html 
@@ -56,7 +56,7 @@ It will be something like
 g++ -std=c++11 register.cpp -o register -I../../Packages/mosek/10.2/tools/platform/linux64x86/h -L../../Packages/mosek/10.2/tools/platform/linux64x86/bin -Wl,-rpath-link,../../Packages/mosek/10.2/tools/platform/linux64x86/bin -Wl,-rpath=../../Packages/mosek/10.2/tools/platform/linux64x86/bin -lmosek64 -lfusion64
 ```
 when mosek is placed in Packages Directory. You need to compile the Registration/CodeFile/register.cpp file using above command. One executable is already present but if at the time of running the tool, the version of mosek is changed then you need to do compilation and obtain your own license to run the tool. 
-One more thing the license which I have provided is valid upto Oct 29,2024 only. I have provided mosek package along with this license also for easy usage, you just need to put the license in right directory. If this gives error, then please remove mosek from packages and do fresh installation using the steps shown above
+For easy usage, I have included both mosek package and a license "mosek.lic" with this tool. If at the time of running the tool, some update of mosek is released then it will give error. In that case please remove mosek library from the Packages folder and do the installation steps as shown above, with a freshly obtained license. (In the case you need to put newly obtained mosek folder in the Packages directory)
 
 #### Eigen Package
 This package is also required to run the tool, this is already included in Packages folder for use.
