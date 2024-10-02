@@ -1,3 +1,5 @@
 Flipping/__pycache__
 .vscode
 PythonScripts/__pycache__
+Packages/mosek/
+Packages/eigen-3.4.0/
